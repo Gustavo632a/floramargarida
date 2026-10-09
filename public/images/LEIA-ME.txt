@@ -1,0 +1,1 @@
+﻿Adicionar aqui a logo original (logo-flora-margarida.png) e as quatro fotos reais (local-01.webp, local-02.webp, local-03.webp, local-04.webp). Os componentes exibem alternativas identificadas até esses arquivos serem fornecidos.
